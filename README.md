@@ -1,7 +1,7 @@
-##EX-logica-js
+## EX-logica-js
 Exercícios de nivelamento Aceleradora Ágil, trabalhando com lógica de programação 
 
-##O indetificador de números Armstrong
+## O indetificador de números Armstrong
 
 Um número de Armstrong é um número em que é a soma de seus próprios dígitos elevados ao número de dígitos é igual ao
 próprio número. Confuso? Vejamos alguns exemplos:
@@ -28,7 +28,7 @@ Escreva algum código para determinar se um número é um número Armstrong. Pen
 
 
 
-##O tradutor Fizz Buzz
+## O tradutor Fizz Buzz
 
 
 O problema:
@@ -106,7 +106,7 @@ Dica: podemos percorrer um array em javascript usando um `for` ou `foreach`.
 
 
 
-##Apura votação
+## Apura votação
 
 O problema:
 
@@ -127,7 +127,7 @@ Dica: podemos percorrer um array em javascript usando um `for` ou `foreach`.
 
 
 
-##Contador de Ocorência
+## Contador de Ocorência
 
 
 
@@ -138,7 +138,7 @@ Dica: podemos percorrer um array em javascript usando um `for` ou `foreach`.
 
 
 
-##Obejto data 
+## Obejto data 
 
 O problema:
 
@@ -157,7 +157,7 @@ Implemente o método criaObjeto, que recebe como argumento uma string no formato
 
 
 
-##Soma dobrada
+## Soma dobrada
 
 
 O problema:
