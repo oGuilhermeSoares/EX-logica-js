@@ -1,7 +1,7 @@
-# EX-logica-js
+##EX-logica-js
 Exercícios de nivelamento Aceleradora Ágil, trabalhando com lógica de programação 
 
-## O indetificador de números Armstrong
+##O indetificador de números Armstrong
 
 Um número de Armstrong é um número em que é a soma de seus próprios dígitos elevados ao número de dígitos é igual ao
 próprio número. Confuso? Vejamos alguns exemplos:
@@ -28,7 +28,7 @@ Escreva algum código para determinar se um número é um número Armstrong. Pen
 
 
 
-## O tradutor Fizz Buzz
+##O tradutor Fizz Buzz
 
 
 O problema:
@@ -103,19 +103,10 @@ Caso haja empate, retorne a string `Empate`.
 
 Dica: podemos percorrer um array em javascript usando um `for` ou `foreach`.
 
-## Casos de teste
-
-    * Quando a entrada for "[1, 1, 1, 2, 3, 3, 2]", a saida deve ser "Vencedor: 1"
-    * Quando a entrada for "[2, 2, 2, 2, 1]", a saida deve ser "Vencedor: 2"
-    * Quando a entrada for "[2, 2, 3, 3, 3, 3]", a saida deve ser "Vencedor: 1"
-    * Quando a entrada for "[1, 2, 2, 2, 3, 3, 3]", a saida deve ser "Empate"
 
 
 
-
-
-
-## Apura votação
+##Apura votação
 
 O problema:
 
@@ -131,12 +122,61 @@ Caso haja empate, retorne a string `Empate`.
 
 Dica: podemos percorrer um array em javascript usando um `for` ou `foreach`.
 
-## Casos de teste
 
-    * Quando a entrada for "[1, 1, 1, 2, 3, 3, 2]", a saida deve ser "Vencedor: 1"
-    * Quando a entrada for "[2, 2, 2, 2, 1]", a saida deve ser "Vencedor: 2"
-    * Quando a entrada for "[2, 2, 3, 3, 3, 3]", a saida deve ser "Vencedor: 1"
-    * Quando a entrada for "[1, 2, 2, 2, 3, 3, 3]", a saida deve ser "Empate"
+
+
+
+
+##Contador de Ocorência
+
+
+
+  Implemente um algoritmo que receba duas entradas: texto e busca. Este algoritmo deve retornar quantas vezes o valor
+  da busca aparece dentro do conteúdo de texto. Implemente esta lógica dentro do método `contaOcorrencias`. Veja alguns exemplos de entrada e saída:
+
+
+
+
+
+##Obejto data 
+
+O problema:
+
+Implemente o método criaObjeto, que recebe como argumento uma string no formato `dd/mm/aaaa`, e retorna um objeto, do tipo:
+
+```javascript
+{
+    dia: dd,
+    mes: mm,
+    ano: aaaa
+}
+```
+
+
+
+
+
+
+##Soma dobrada
+
+
+O problema:
+
+Implemente o método somaDobrada, que recebe como argumento dois números inteiros e retorna um valor inteiro. A
+implementação deve considerar as seguintes regras:
+
+- Caso os dois números recebidos sejam iguais, o método retorna o dobro da soma;
+
+- Caso um dos números seja menor do que 1, o método retorna -1;
+
+- Caso nenhuma das condições anteriores seja verdadeira, o método retorna a soma dos dois números.
+
+
+
+
+
+
+
 
 
 
